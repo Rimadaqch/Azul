@@ -1,1 +1,1 @@
-# Tifinagh_Character_Recognition
+# Tifinagh_Character_Recognition OCR
