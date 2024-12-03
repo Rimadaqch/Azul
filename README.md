@@ -45,7 +45,7 @@ Tifinagh, the Amazigh script, has limited OCR solutions, making the digitization
 |----------------------------|--------------------|-----------------|  
 | Research and Exploration   | 2 weeks           | ✅ Completed    |  
 | Data Preparation           | 2 weeks           | ✅ Completed    |  
-| Implementation of Tools    | 3 weeks           | ✅ Completed    |  
+| Implementation of Tools    | 3 weeks           | 🔄 In Progress  |  
 | Hybrid Model Development   | 4 weeks           | 🔄 In Progress  |  
 | Evaluation and Reporting   | 2 weeks           | ⬜ Pending      |  
 
